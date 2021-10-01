@@ -5,6 +5,8 @@
 
 * {
     box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
 }
 
 body {
@@ -51,15 +53,13 @@ textarea {
 }
 
 footer{
-    margin-top: 1rem;
+    margin-top: 5vh;
     background-color: var(--primary);
     text-align: center;
-    padding: 1rem 0rem;
-    position: fixed;
-    bottom: 0px;
-    width: 100%
+    padding: 2rem;
 }
 
 #footer-header {
+    padding: 2rem;
     font-size: 30px;
 }
