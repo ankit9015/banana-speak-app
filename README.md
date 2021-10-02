@@ -1,7 +1,6 @@
 # banana-speak-app
 Banana speak app : A project in the slew of projects under neog.camp Level Zero Material
 
-This is the cash register app.
 
 The program is built using Vanilla JS, HTML, CSS, and fun translation API.
 
